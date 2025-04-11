@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250403-0224-Experimental"
+	Name="ubuntu"
+	Generator="ctest-3.10.2"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="7.5.0"
+	OSName="Linux"
+	Hostname="ubuntu"
+	OSRelease="5.4.0-150-generic"
+	OSVersion="#167~18.04.1-Ubuntu SMP Wed May 24 00:51:42 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="154"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="1425"
+	TotalPhysicalMemory="7927"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2688"
+	>
+	<Testing>
+		<StartDateTime>Apr 02 19:24 PDT</StartDateTime>
+		<StartTestTime>1743647070</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 02 19:24 PDT</EndDateTime>
+		<EndTestTime>1743647070</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

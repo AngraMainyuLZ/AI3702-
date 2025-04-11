@@ -1,0 +1,8 @@
+<launch>
+    <!-- keyboard driver -->
+    <node name="robot_key_input_node" type="key_input_node" pkg="key_pkg" output="screen"></node>
+    <!-- keyboard controller -->
+    <node name="robot_key_ctrl_node" type="key_ctrl_node" pkg="key_pkg" output="screen"></node>
+    
+
+</launch>
